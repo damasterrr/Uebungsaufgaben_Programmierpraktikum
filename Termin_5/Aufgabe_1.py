@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-@author: kerstin
-"""
+#Test commit
+#Angabe siehe Moodle
 
 liste = [6, -1, 9, -18, 19, 15, 3, 17, 26, 15]
 print(liste)
